@@ -1,0 +1,9 @@
+{
+	"doubleQuote": true,
+	"useTabs": true,
+	"bracketSpacing": false,
+	"arrowParens": "always",
+	"tabWidth": 1,
+	"quoteProps": "consistent",
+	"bracketSameLine": true
+}
