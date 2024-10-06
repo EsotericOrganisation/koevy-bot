@@ -8,7 +8,7 @@
 	},
 	"keywords": [],
 	"author": "Koevy",
-	"license": "ISC",
+	"license": "MIT",
 	"dependencies": {
 		"@discordjs/rest": "^1.4.0",
 		"chalk": "^4.1.2",
