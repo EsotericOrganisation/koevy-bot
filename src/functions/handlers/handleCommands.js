@@ -25,9 +25,12 @@ module.exports = (client) => {
 		try {
 			console.log("Started refreshing application (/) commands.");
 
-			await rest.put(Routes.applicationGuildCommands(process.env.clientId, process.env.guildId), {
-				body: client.commandArray,
-			});
+			await rest.put(
+				Routes.applicationGuildCommands(process.env.clientId, process.env.guildId),
+				{
+					body: client.commandArray,
+				}
+			);
 
 			console.log("Successfully reloaded application (/) commands.");
 		} catch (error) {

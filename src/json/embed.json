@@ -1,1 +1,13 @@
-{"title":"NEW WEBSITE","description":"We now have our completely own Website, which gives main information about us as Team, and Information auch as pricing etc. which changed a lot, so have a look at it.","color":6557858,"image":{"url":"https://media.discordapp.net/attachments/1044272149453619210/1074366149090881622/News.png"},"author":{},"footer":{},"thumbnail":{"url":"https://media.discordapp.net/attachments/1044272149453619210/1074366119294550096/Announce.png"}}
+{
+	"title": "NEW WEBSITE",
+	"description": "We now have our completely own Website, which gives main information about us as Team, and Information auch as pricing etc. which changed a lot, so have a look at it.",
+	"color": 6557858,
+	"image": {
+		"url": "https://media.discordapp.net/attachments/1044272149453619210/1074366149090881622/News.png"
+	},
+	"author": {},
+	"footer": {},
+	"thumbnail": {
+		"url": "https://media.discordapp.net/attachments/1044272149453619210/1074366119294550096/Announce.png"
+	}
+}
