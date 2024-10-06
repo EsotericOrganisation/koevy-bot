@@ -6,7 +6,6 @@
 	"scripts": {
 		"test": "node ."
 	},
-	"keywords": [],
 	"author": "Esoteric Organisation",
 	"contributors": [
 		"Esoteric Enderman",
