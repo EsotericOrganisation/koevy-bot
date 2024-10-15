@@ -1,5 +1,5 @@
 {
-	"name": "ticket-bot",
+	"name": "koevy-bot",
 	"version": "1.0.0",
 	"description": "The Discord bot powering Koevy's Discord server.",
 	"main": "src/bot.js",
